@@ -1,0 +1,27 @@
+
+Please keep this information for your records:
+
+Magento Admin Info:
+
+Username:
+admin
+Email:
+kevin@qpsoftware.fr
+Password:
+******
+Your Store Address:
+http://192.168.199.209:9005/
+Magento Admin Address:
+http://192.168.199.209:9005/backend/
+Be sure to bookmark your unique URL and record it offline.
+Encryption Key:
+e24e74c0bd5fd9b3316f2e6192b9a4a7
+Database Info:
+
+Database Name:
+magentoce23
+Username:
+root
+Password:
+******
+For security, remove write permissions from these directories: '/var/www/php/kevinmagento2.2/app/etc'
